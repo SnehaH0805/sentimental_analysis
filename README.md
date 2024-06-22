@@ -23,13 +23,16 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    pip install -r requirements.txt
 
    
-**To run the Sentiment Analysis Tool locally, use the following command:**
+   **To run the Sentiment Analysis Tool locally, use the following command:**
 
-streamlit run demo.py
+   streamlit run demo.py
 
 This will start a local Streamlit server, and you can access the tool in your web browser at http://localhost:8501.
 
+--------------------------------------------------------------------------------------------------------------------------------------------
+
 **First screen of web app Home Page**
+
 default page is home page as shown below:
 ![image](https://github.com/SnehaH0805/sentimental_analysis/assets/172985386/2e93513f-629d-421c-8f07-684768636229)
 
@@ -41,14 +44,17 @@ The Sentiment Analysis Tool allows you to analyze the sentiment of individual re
 How It Works
 Input Text: Enter the text you want to analyze in the provided text area.
 Analyze Sentiment: Click the "Enter" button to process the text.
+
 Sentiment Results:
 Polarity: A value between -1 and 1, indicating how negative or positive the text is. A negative score indicates negative sentiment, a positive score indicates positive sentiment, and a score around zero indicates neutral sentiment.
+
 Subjectivity: A value between 0 and 1 that tells how subjective or objective the text is. A score closer to 1 indicates a subjective statement (opinion), while a score closer to 0 indicates an objective statement (fact).
 
 ![image](https://github.com/SnehaH0805/sentimental_analysis/assets/172985386/b7a96ffa-39f4-4f1b-909c-853976126399)
 
 **3rd screen Upload CSV and Generate Sentiment Analysis Chart**
-In neveigation panel select Upload CSV and Generate Sentiment Analysis Chart
+In neveigation panel select Upload CSV and Generate Sentiment Analysis Chart:
+
 Upload CSV and Generate Sentiment Analysis Chart
 The Sentiment Analysis Tool allows you to analyze the sentiment of multiple text entries by uploading a CSV file and generating visual sentiment analysis charts. This feature helps you gain insights into the overall sentiment trends in your data, making it easier to visualize and understand the results.
 
