@@ -54,9 +54,19 @@ The Sentiment Analysis Tool allows you to analyze the sentiment of multiple text
 
 How It Works
 Upload CSV File: Upload a CSV file containing the text data you want to analyze. The CSV file should have a column with the text entries you wish to analyze.
+
 Select Column: Choose the column from the uploaded CSV that contains the text data.
+
 Analyze Sentiment: Click the "Analyze" button to process all the text entries in the selected column.
+
 View Results: The tool generates sentiment analysis charts that visualize the distribution of polarity (positive, negative, neutral) and subjectivity (subjective, objective) scores.
 
-   
+![screencapture-localhost-8501-2024-06-22-15_46_25](https://github.com/SnehaH0805/sentimental_analysis/assets/172985386/4de559a2-ab1f-4fe4-9944-4eda5afd02b8)
 
+Visual Insights: Provides visual representations of sentiment analysis results, making it easier to understand and communicate findings.
+
+Trend Analysis: Helps identify sentiment trends over time or across different categories.
+
+Batch Processing: Efficiently analyze and visualize the sentiment of large datasets.
+
+This feature is ideal for businesses and researchers who need to process and visualize the sentiment of large volumes of text data, making it easier to derive actionable insights.
