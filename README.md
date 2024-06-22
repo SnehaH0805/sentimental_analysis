@@ -40,7 +40,7 @@ The Sentiment Analysis Tool allows you to analyze the sentiment of individual re
 
 How It Works
 Input Text: Enter the text you want to analyze in the provided text area.
-Analyze Sentiment: Click the "Analyze" button to process the text.
+Analyze Sentiment: Click the "Enter" button to process the text.
 Sentiment Results:
 Polarity: A value between -1 and 1, indicating how negative or positive the text is. A negative score indicates negative sentiment, a positive score indicates positive sentiment, and a score around zero indicates neutral sentiment.
 Subjectivity: A value between 0 and 1 that tells how subjective or objective the text is. A score closer to 1 indicates a subjective statement (opinion), while a score closer to 0 indicates an objective statement (fact).
