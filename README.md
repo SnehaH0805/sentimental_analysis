@@ -47,7 +47,16 @@ Subjectivity: A value between 0 and 1 that tells how subjective or objective the
 
 ![image](https://github.com/SnehaH0805/sentimental_analysis/assets/172985386/b7a96ffa-39f4-4f1b-909c-853976126399)
 
+**3rd screen Upload CSV and Generate Sentiment Analysis Chart**
+In neveigation panel select Upload CSV and Generate Sentiment Analysis Chart
+Upload CSV and Generate Sentiment Analysis Chart
+The Sentiment Analysis Tool allows you to analyze the sentiment of multiple text entries by uploading a CSV file and generating visual sentiment analysis charts. This feature helps you gain insights into the overall sentiment trends in your data, making it easier to visualize and understand the results.
 
+How It Works
+Upload CSV File: Upload a CSV file containing the text data you want to analyze. The CSV file should have a column with the text entries you wish to analyze.
+Select Column: Choose the column from the uploaded CSV that contains the text data.
+Analyze Sentiment: Click the "Analyze" button to process all the text entries in the selected column.
+View Results: The tool generates sentiment analysis charts that visualize the distribution of polarity (positive, negative, neutral) and subjectivity (subjective, objective) scores.
 
    
 
