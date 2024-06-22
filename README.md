@@ -29,8 +29,9 @@ streamlit run demo.py
 
 This will start a local Streamlit server, and you can access the tool in your web browser at http://localhost:8501.
 
-Project Structure
-The project consists of the following files:
+First screen of web app.
+default page is home page as shown below:
+![image](https://github.com/SnehaH0805/sentimental_analysis/assets/172985386/2e93513f-629d-421c-8f07-684768636229)
 
 
 
