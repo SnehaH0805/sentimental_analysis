@@ -21,8 +21,9 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 3. **pip install -r requirements.txt**
    pip install -r requirements.txt
+
    
-5.**To run the Sentiment Analysis Tool locally, use the following command:**
+   5.**To run the Sentiment Analysis Tool locally, use the following command:**
 
 streamlit run demo.py
 
