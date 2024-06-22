@@ -55,7 +55,8 @@ The Sentiment Analysis Tool allows you to analyze the sentiment of multiple text
 How It Works
 Upload CSV File: Upload a CSV file containing the text data you want to analyze. The CSV file should have a column with the text entries you wish to analyze.
 
-Select Column: Choose the column from the uploaded CSV that contains the text data.
+Select Column: Choose the column from the uploaded CSV that contains the text data.  (Example file:[amazon_review.csv](https://github.com/user-attachments/files/15936244/amazon_review.csv)
+  )
 
 Analyze Sentiment: Click the "Analyze" button to process all the text entries in the selected column.
 
